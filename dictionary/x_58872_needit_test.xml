@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="test" max_length="40" name="x_58872_needit_test" sizeclass="17" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cc_abbreviation" label="cc_abbreviation" max_length="40" name="u_cc_abbreviation" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cc_id" label="cc_id" max_length="40" name="u_cc_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=cc_name" label="cc_name" max_length="40" name="u_cc_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=created_by" label="created_by" max_length="40" name="u_created_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=created_date" label="created_date" max_length="40" name="u_created_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=modified_by" label="modified_by" max_length="40" name="u_modified_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=modified_date" label="modified_date" max_length="40" name="u_modified_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=record_status_flag" label="record_status_flag" max_length="40" name="u_record_status_flag" type="string"/>
+    </element>
+</database>
